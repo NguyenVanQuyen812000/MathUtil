@@ -10,6 +10,6 @@ This repo contains the source code of a simple Java application used to demonstr
 ### Connect me via
 1. [GitHub](https://github.com/NguyenVanQuyen812000)
 2. [Facebook](https://www.facebook.com/profile.php?id=100004816143282)
-3. [Email](mail: quyennvse140615@fpt.edu.vn)
+3. [Email](quyennvse140615@fpt.edu.vn)
 
-#### © 2020 by Nguyen Van Quyen | FPT University - HCMC Campus
+#### Â© 2020 by Nguyen Van Quyen | FPT University - HCMC Campus
