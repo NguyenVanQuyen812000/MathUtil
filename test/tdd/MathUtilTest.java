@@ -51,6 +51,7 @@ public class MathUtilTest {
         //ta phải xài chiêu khác khi bắt ngoại lệ coi có đúng
         //là ngoại lẹ mình cần không
         computeFactorial(-5);
+        computeFactorial(16);   //giai thừa tăng rất nhanh, ko chơi quá 15
     }
     
     //code có thể còn tiềm ẩn lỗi logic nhưng Clean & Build
