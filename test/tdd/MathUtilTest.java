@@ -50,7 +50,7 @@ public class MathUtilTest {
         //vì hàm này cần 2 value excepted và actual
         //ta phải xài chiêu khác khi bắt ngoại lệ coi có đúng
         //là ngoại lẹ mình cần không
-        computeFactorial(-5);
+        //computeFactorial(-5);
         computeFactorial(16);   //giai thừa tăng rất nhanh, ko chơi quá 15
     }
     
